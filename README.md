@@ -1,16 +1,13 @@
-## Hi there 👋
+# Eric Lapouyade
 
-<!--
-**elapouya/elapouya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead developer focused on Django, PostgreSQL and AI tooling.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Calcorama](https://calcorama.com)
+
+- [![django-listing](https://img.shields.io/badge/GitHub-django--listing-0A0A0A?logo=github)](https://github.com/elapouya/django-listing)
+
+- [![python-docx-template](https://img.shields.io/badge/GitHub-python--docx--template-0A0A0A?logo=github)](https://github.com/elapouya/python-docx-template)
+
+- 🌐 [Blog](https://eric.lapouyade.info)
