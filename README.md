@@ -2,7 +2,7 @@
 
 Lead developer focused on Django, PostgreSQL and AI tooling.
 
-## Projects
+## Some projects
 
 - 🌐 [Calcorama](https://calcorama.com)
 
